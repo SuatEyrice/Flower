@@ -6,6 +6,8 @@ A visual and perceptual experience inspired by the **Flower of Life**, a geometr
 
 This project delves into the hidden meanings of the **Flower of Life**, guiding users on how to experience its profound significance in real life through various focus-shifting techniques.
 
+![Preview](https://raw.githubusercontent.com/SuatEyrice/Flower/main/Flower.png)
+
 ## How to Use
 
 1. **Train Your Eyes**
